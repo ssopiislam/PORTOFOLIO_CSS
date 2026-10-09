@@ -1710,3 +1710,20 @@ footer p {
     }
 
 }
+
+
+/* =========================================
+   NAME INTRO — ABOUT ME
+========================================= */
+
+.about-main .name-intro {
+    color: var(--dark-pink);
+    font-size: 14px;
+    line-height: 1.8;
+    margin-bottom: 22px;
+}
+
+.about-main .name-intro strong {
+    color: var(--dark-pink);
+    font-weight: 700;
+}
